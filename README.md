@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://s5.gifyu.com/images/nasil.gif)
+![HowtoGif](https://s5.gifyu.com/images/nasil.gif)
 
 # TweetviaPythonMultiAcc
  Tweeting via Python multi account
