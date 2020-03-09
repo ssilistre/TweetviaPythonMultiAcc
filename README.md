@@ -1,4 +1,4 @@
-![HowtoGif](https://s5.gifyu.com/images/nasil.gif)
+https://s5.gifyu.com/images/nasil.gif
 
 # TweetviaPythonMultiAcc
  Tweeting via Python multi account
