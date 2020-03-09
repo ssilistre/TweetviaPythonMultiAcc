@@ -24,7 +24,7 @@ while True:
     web.type(username, into='Username')
     web.type(password, into='Password', id='passwordFieldId')
     time.sleep(1)
-    web.click(xpath='//*[@id="react-root"]/div/div/div[1]/main/div/div/form/div/div[3]/div/div')
+    web.click(xpath='//*[@id="react-root"]/div/div/div[2]/main/div/div/form/div/div[3]/div')
     time.sleep(1)
     tweetgonder()
     time.sleep(1)
